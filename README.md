@@ -8,7 +8,7 @@
 
 一个分布式自治组织，致力于成员学习、研究、实践法定共同体创立、部署与治理。
 法定共同体指按照相关法规注册或登记的公司、企业、社会团体等
-hox team 成员勋章标签为：成为PSMD的 建模者 或者 部署者。
+HOX Team 成员勋章标签为：成为PSMD的 建模者 或者 部署者。
 
 ## 关于PSMD
 
@@ -36,7 +36,7 @@ H代表比喻组织的大厦，O代表洞察之眼，X用点阵代表组织的�
 ![HOX 头像标签](https://raw.githubusercontent.com/cqhwang/image/master/HOX%20%E6%A0%87%E7%AD%BE.jpg)
 
 
-# 成果库
+# github库
 https://github.com/cqhwang/HOX
 
 # 域名
